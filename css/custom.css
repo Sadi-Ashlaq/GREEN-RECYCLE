@@ -4,6 +4,15 @@ h2 {
     font-weight: 700;
 }
 
+.RECYCLE{
+    position: absolute;
+     margin: 0;
+      top: 27%; 
+      left: 50%; 
+      -ms-transform: translate(-50%, -50%); 
+       transform: translate(-50%, -50%);  
+}
+
 img {
     display: block;
     max-width: 100%;
