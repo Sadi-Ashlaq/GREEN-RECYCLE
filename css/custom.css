@@ -1,4 +1,30 @@
 /********** common setting **********/
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+.ggf{
+    margin-top: 5rem!important;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #04AA6D; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
 h2 {
     font-size: 2.8rem !important;
     font-weight: 700;
