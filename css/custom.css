@@ -23,7 +23,7 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #b30000; 
+  background: #04AA6D;
 }
 h2 {
     font-size: 2.8rem !important;
